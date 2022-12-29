@@ -1,4 +1,4 @@
-# Marvel Snap optimal energy curves
+# Marvel Snap optimal energy curve
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lsorber/marvel-snap-optimal-energy-curve/blob/main/marvel-snap-optimal-energy-curve.ipynb)
 
