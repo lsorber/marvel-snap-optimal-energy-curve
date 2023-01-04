@@ -11,7 +11,7 @@ This repo's notebook simulates all 6188 possible energy curves in Marvel Snap an
 
 ## Results
 
-The graph below visualizes all possible energy curves. The Pareto front is highlighted in red (🟥), and a constrained Pareto front with at least one 6-cost card in highlighted in blue (🟦).
+The graph below visualizes all possible energy curves. The Pareto front is highlighted in red (🔴), and a constrained Pareto front with at least one 6-cost card in highlighted in blue (🔵).
 
 The energy curve `2,4,3,2,1,0` wins both as having the highest energy efficiency among all energy curves, as well as having the highest ratio of number of plays over wasted energy. With at least one 6-cost card, the next most optimal energy curve seems to be `1,4,3,2,1,1`.
 
